@@ -38,7 +38,7 @@ public class TankHealth : MonoBehaviour
 
 	private void Update()
 	{
-		TakeDamage (0.1f);
+		//TakeDamage (0.1f);
 	}
 
     public void TakeDamage(float amount)
